@@ -1,0 +1,6 @@
+name: Chatban_fuck_off
+version: '${project.version}'
+main: me.lowlauch.chatban_fuck_off.Main
+api-version: 1.19
+authors: [ lowlauch ]
+description: You can not report people anymore
